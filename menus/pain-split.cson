@@ -1,3 +1,8 @@
+'context-menu':
+  '.tab':
+    'Duplicate horizontally': 'pane:split-down'
+    'Duplicate vertically': 'pane:split-right'
+
 'menu': [
   {
     'label': 'Window'
